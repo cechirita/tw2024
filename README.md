@@ -1,2 +1,2 @@
 # tehnici web
- [https://cs.unibuc.ro/~cechirita/tw](Curs Tehnici Web @ FMI 2023-2024)
+ [Pagina cursului Tehnici Web @ FMI 2023-2024](https://cs.unibuc.ro/~cechirita/tw)
