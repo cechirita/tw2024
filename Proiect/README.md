@@ -9,14 +9,15 @@ Veți putea alege tema website-ului, dar va trebui să respectați o listă de c
 
 ### Exemple de temă pentru proiect:
 - website personal 
-- website de prezentare a unei cărți, unui autor, unui joc, unui proiect de artă, unei formații, unui regizor, unui actor sau unui film etc.  
+- website de prezentare a unei cărți, unui autor, unui joc, unei formații, unui regizor, unui actor sau unui film etc.  
 - blog personal, de călătorii, culinar etc.  
 - website cu conținut educațional (tutoriale, exploratory explanations, exerciții interactive scrise în JavaScript)
-- website de prezentare a unei librării, biblioteci, muzeu, galerii de artă etc.  
+- website de prezentare a unei librării, biblioteci, muzeu, galerii de artă etc.   
 - website de prezentare a unui obiectiv turistic  
 - website comercial 
+- un joc mic, un proiect de artă 
 
-Vă puteți consulta cu profesorul de laborator pentru alegerea temei.  
+Vă puteți consulta cu profesorul de laborator pentru alegerea temei. Vă vom arăta exemple ;-) 
 
 *Vă încurajăm să alegeți o temă care vă place, oricât de năstrușnică ar putea părea.*
 
