@@ -45,7 +45,7 @@ CSS:
 - site-ul trebuie să conțină un menu drop-down (sau altfel expandabil) realizat cu CSS
 - site-ul trebuie să conțină o tranziție care implică schimbarea mai multor proprietăți la intervale diferite de timp
 - site-ul trebuie să conțină o animație care să modifice mai multe proprietăți ale aceluiași element
-- !bonus point! pentru generarea conținutului folosind :after, :before (dar să aibă sens; fiți creativi)  
+- ! bonus point ! pentru generarea conținutului folosind :after, :before (dar să aibă sens; fiți creativi)  
 
 ### Cerințe generale minimale pentru partea 2 (JavaScript + Node.js misc):
 A. JavaScript
