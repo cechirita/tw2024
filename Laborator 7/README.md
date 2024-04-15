@@ -35,7 +35,7 @@ Completați funcția `drawTable` pentru a genera un tabel (element `html` de tip
 - dacă ponderea este 0, atunci celula își va păstra culoarea inițială
 - pentru orice altă valoare a ponderii, culoarea inițială și cea nouă vor fi amestecate. De exemplu, dacă ponderea este 0.5, atunci 
    culoarea inițială și cea nouă vor fi amestecate în proporții egale (50%).
-*Hint: folosiți culori de forma `rgb(x,x,x)` pentru a simplifica codul.*
+*Hint: folosiți culori de forma `rgb(x,x,x)` pentru a simplifica codul. Funcția `colorMixer` primește ca argumente doi întregi ce corespund valorilor unui canal de culoare pentru cele două culori de amestecat și un întreg ce corespunde ponderii de amestecare.*
 
 10. Definiți funcțiile `delRow` și `delCol` ce permit ștergerea unei linii și a unei coloane din tabla de desenat.  
 *Hint: dacă ați adăugat clase corespunzătoare poziției fiecărei celule din tabel, nu uitați să actualizați clasele, atunci când este necesar.*
