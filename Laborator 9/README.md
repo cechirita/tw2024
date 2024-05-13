@@ -18,7 +18,7 @@ Descărcați fișierele `form.html`, `style.css` și `form.js` din directorul `r
 Adăugați câte un câmp pentru: 
 - nume (lungimea minimă a textului introdus să fie de 3 caractere, iar cea maximă de 30; câmp obligatoriu), 
 - ID-ul unic intergalactic (lungime minimă 8, maximă 20; adăugați o verificare de pattern la alegere; câmp obligatoriu), 
-- data nașterii (data cea mai recentă 7 mai 2023, cea mai veche 1 ianuarie 1800; câmp obligatoriu), 
+- data nașterii (data cea mai recentă 13 mai 2024, cea mai veche 1 ianuarie 1800; câmp obligatoriu), 
 - creditul social acumulat (interval între 0 și 2000 de puncte de credit; pasul să fie de 50 de credite; nu uitați să adăugați o etichetă cu valoarea selectată; câmp obligatoriu), 
 - o fotografie (să fie acceptată orice extensie de fișier imagine), și
 - rasă. Rasa poate fi una din următoarele: [Autobot](https://en.wikipedia.org/wiki/Autobot), [Daimons](https://en.wikipedia.org/wiki/Death_Busters#Daimons), [Deep Ones](https://en.wikipedia.org/wiki/Deep_One), [Experiment](https://en.wikipedia.org/wiki/List_of_Lilo_%26_Stitch_characters#Experiments), [Goa'uld](https://en.wikipedia.org/wiki/Mythology_of_Stargate#Goa'uld), [Hutt](https://en.wikipedia.org/wiki/Hutt_(Star_Wars)), [Jawa](https://en.wikipedia.org/wiki/List_of_Star_Wars_species_(F%E2%80%93J)#Jawa), [Kryptonian](https://en.wikipedia.org/wiki/Krypton_(comics)), [Mandalorians](https://en.wikipedia.org/wiki/Mandalorians), [Martian](https://en.wikipedia.org/wiki/Mars_in_fiction#Life_on_Mars), [Protoss](https://en.wikipedia.org/wiki/StarCraft#Story), [Rodian](https://en.wikipedia.org/wiki/List_of_Star_Wars_species_(P%E2%80%93T)#Rodian), [Romulan](https://en.wikipedia.org/wiki/Romulan), [Tleilaxu](https://en.wikipedia.org/wiki/Bene_Tleilax), [Vogon](https://en.wikipedia.org/wiki/Vogon), [Wookie](https://en.wikipedia.org/wiki/Wookiee), [Xenu](https://en.wikipedia.org/wiki/Xenu), [Yeti](https://en.wikipedia.org/wiki/Yeti_(Doctor_Who)), [Zerg](https://en.wikipedia.org/wiki/StarCraft#Story).  
@@ -49,7 +49,7 @@ Lista de opțiuni pentru câmpul corespunzător rasei este lungă (20 de opțiun
 ## [just visiting](https://www.youtube.com/watch?v=KWMSpxTrfbo)
 
 5. Adăugați formularului o secțiune pentru înregistrarea detaliilor legate de vizită:
-- data sosirii (interval de 10 ani începând cu 7 mai 2023; câmp obligatoriu)
+- data sosirii (interval de 10 ani începând cu 13 mai 2024; câmp obligatoriu)
 - ora estimată a sosirii (câmp obligatoriu)
 - tipul de ședere (temporară sau permanentă; valoarea `temporară` preselectată; câmp obligatoriu)
 - scopul vizitei (pot fi alese mai multe opțiuni; valoarea `invazie` preselectată; câmp obligatoriu)
