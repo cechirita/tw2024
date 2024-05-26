@@ -64,10 +64,10 @@ A. JavaScript
 - folosirea metodelor getComputedStyle, stopPropagation
 - validarea datelor dintr-un formular folosind expresii regulate
 
-B. Node.js
+B. AJAX & Node.js
 - cereri get/post: preluare date dintr-un formular
 - cereri Ajax cu preluare date dintr-un fișier json
-- sesiuni: login/logout
+- sesiuni: login/logout (cu Node.js sau Storage) 
 - pagină pentru eroarea 404
 
 Pe lângă implementarea acestor cerințe minimale (a căror rezolvare corectă nu garantează punctajul maxim), includeți în proiect și tratarea altor probleme (la alegere) precum cea a accesibilității, internaționalizării (traducere, caractere speciale etc.), folosirii canvas/svg etc.  
